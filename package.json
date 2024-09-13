@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-winners-team/",
+    "build": "vite build --base=/js_108_Jana-Mikhierieva/",
     "preview": "vite preview"
   },
   "devDependencies": {
